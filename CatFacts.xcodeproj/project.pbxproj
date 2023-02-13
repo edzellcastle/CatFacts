@@ -44,6 +44,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		632E238D299A2641001A5760 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		636074672995B874007E5E04 /* CatFacts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CatFacts.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6360746A2995B874007E5E04 /* CatFactsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatFactsApp.swift; sourceTree = "<group>"; };
 		6360746C2995B874007E5E04 /* CatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatView.swift; sourceTree = "<group>"; };
@@ -89,6 +90,7 @@
 		6360745E2995B873007E5E04 = {
 			isa = PBXGroup;
 			children = (
+				632E238D299A2641001A5760 /* README.md */,
 				636074692995B874007E5E04 /* CatFacts */,
 				6360747A2995B875007E5E04 /* CatFactsTests */,
 				636074842995B875007E5E04 /* CatFactsUITests */,
